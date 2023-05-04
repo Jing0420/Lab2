@@ -12,4 +12,4 @@ def calculate_bmi(height,weight) :
     else:
         print("The user is Over Weight")
         return 1
-calculate_bmi(weight=57,height=1.73)
+print(calculate_bmi(weight=57,height=1.73))
